@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<details open>
   
-<summary>🤝 <b>Connect with me</b></summary>
+## Connect with me
 
 <p align = "center">
  
@@ -30,5 +28,3 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/github-%23211F1F.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/prashuk)
 
 </p>
-
-</details>
