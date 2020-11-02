@@ -1,4 +1,4 @@
-### Hi 👋 I am Prashuk
+### Hi 👋   I am Prashuk
 
 Currently pursuing Master of Science in Computer Science from The University of Texas at Dallas have over 4 years of professional experience in software development engineering.
 
