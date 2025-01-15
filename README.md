@@ -1,6 +1,6 @@
 ### Hi 👋 I am Prashuk
 
-Currently pursuing Master of Science in Computer Science from The University of Texas at Dallas have over 4 years of professional experience in software development engineering.
+Currently pursuing Master of Science in Computer Science from The University of Texas at Dallas have over 7 years of professional experience in software development engineering.
 
 A quick look at my profile will give you insights on the following skills:
 - 🔗 Web development experience using HTML, CSS & JS
