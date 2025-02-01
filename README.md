@@ -3,9 +3,9 @@
 Currently pursuing Master of Science in Computer Science from The University of Texas at Dallas have over 7 years of professional experience in software development engineering.
 
 A quick look at my profile will give you insights on the following skills:
-- 🔗 Web development experience using HTML, CSS & JS
 - 📱 iOS development experience using Swift/Objective-C
-- 💯 Proficiency in Java, Python, C#, Swift
+- 🔗 Web development experience using HTML, CSS & JS
+- 💯 Proficiency in Swift, Objective-C, Java
 - 💻 Strong computer science concepts in data structures and database
 - 📲 Kony (Cross-Platform App) Certified Developer
 - 🖨️ Experience in applying Machine learning algorithms
