@@ -18,6 +18,7 @@ A quick look at my profile will give you insights on the following skills:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=prashuk&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=prashuk&hide=css,java,html&theme=tokyonight)
   
+<!--
 ## Connect with me
 
 <p align = "center">
@@ -28,6 +29,7 @@ A quick look at my profile will give you insights on the following skills:
 [<img src="https://img.shields.io/badge/github-%23211F1F.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/prashuk)
 
 </p>
+-->
 
 <!--
 **prashuk/prashuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
