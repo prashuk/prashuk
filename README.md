@@ -1,6 +1,6 @@
 ### Hi 👋 I am Prashuk
 
-Currently pursuing Master of Science in Computer Science from The University of Texas at Dallas have over 7 years of professional experience in software development engineering.
+Have over 7 years of professional experience in software development engineering.
 
 A quick look at my profile will give you insights on the following skills:
 - 📱 iOS development experience using Swift/Objective-C
